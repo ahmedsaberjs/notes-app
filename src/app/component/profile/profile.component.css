@@ -1,0 +1,8 @@
+.note
+{
+    min-height: 200px;
+    background-color: #cff;
+}
+i,.dropdown-item{
+    cursor: pointer;
+}
